@@ -10,13 +10,27 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PositionsofLargeGroups.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/ct/PositionsofLargeGroups.java">
+      <file leaf-file-name="ScoreofParentheses.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ct/ScoreofParentheses.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="442">
+              <caret line="46" column="13" lean-forward="true" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -45,6 +59,8 @@
         <option value="$PROJECT_DIR$/src/com/ct/MonotonicArray.java" />
         <option value="$PROJECT_DIR$/src/com/ct/WalkingRobotSimulation.java" />
         <option value="$PROJECT_DIR$/src/com/ct/BuddyStrings.java" />
+        <option value="$PROJECT_DIR$/src/com/ct/PositionsofLargeGroups.java" />
+        <option value="$PROJECT_DIR$/src/com/ct/ScoreofParentheses.java" />
       </list>
     </option>
   </component>
@@ -132,7 +148,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BuddyStrings">
+  <component name="RunManager" selected="Application.ScoreofParentheses">
     <configuration name="BuddyStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ct.BuddyStrings" />
       <module name="ACM" />
@@ -146,6 +162,28 @@
     </configuration>
     <configuration name="MonotonicArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ct.MonotonicArray" />
+      <module name="ACM" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="PositionsofLargeGroups" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ct.PositionsofLargeGroups" />
+      <module name="ACM" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ScoreofParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ct.ScoreofParentheses" />
       <module name="ACM" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -211,9 +249,13 @@
       <item itemvalue="Application.MonotonicArray" />
       <item itemvalue="Application.WalkingRobotSimulation" />
       <item itemvalue="Application.BuddyStrings" />
+      <item itemvalue="Application.PositionsofLargeGroups" />
+      <item itemvalue="Application.ScoreofParentheses" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ScoreofParentheses" />
+        <item itemvalue="Application.PositionsofLargeGroups" />
         <item itemvalue="Application.BuddyStrings" />
         <item itemvalue="Application.WalkingRobotSimulation" />
         <item itemvalue="Application.MonotonicArray" />
@@ -237,19 +279,19 @@
       <workItem from="1536405608705" duration="1827000" />
       <workItem from="1536407604136" duration="645000" />
       <workItem from="1536414460325" duration="1140000" />
-      <workItem from="1536415679429" duration="914000" />
+      <workItem from="1536415679429" duration="6397000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21107000" />
+    <option name="totallyTimeSpent" value="26590000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32952926" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -271,7 +313,6 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32952926" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -289,11 +330,18 @@
       <option name="time" value="3" />
     </breakpoint-manager>
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/ct/WalkingRobotSimulation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="855">
           <caret line="45" column="5" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="45" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -343,6 +391,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="855">
           <caret line="45" column="5" selection-start-line="20" selection-start-column="4" selection-end-line="45" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -379,8 +430,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ct/PositionsofLargeGroups.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="19">
+          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ct/ScoreofParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="46" column="13" lean-forward="true" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
         </state>
       </provider>
     </entry>
