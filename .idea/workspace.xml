@@ -2,16 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07eb9278-3530-41a3-a0ae-846355e04252" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ct/LengthofLastWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ct/MultiplyStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ct/Permutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ct/PermutationsII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ct/Roman2Integer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ct/SearchInsertPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ct/SpiralMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ct/SpiralMatrixII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ct/UniquePaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ct/BalancedBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ct/BinaryTreeLevelOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ct/Combinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ct/MergeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ct/PartitionList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ct/PlusOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ct/SameTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ct/Subsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ct/SubsetsII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ACM/com/ct/UniquePaths.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ACM/com/ct/UniquePaths.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,17 +37,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LeafSimilarTrees.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/ct/LeafSimilarTrees.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="14" column="53" lean-forward="true" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -54,6 +45,12 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>*</find>
+      <find>*</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -84,6 +81,15 @@
         <option value="$PROJECT_DIR$/src/com/ct/SpiralMatrix.java" />
         <option value="$PROJECT_DIR$/src/com/ct/SpiralMatrixII.java" />
         <option value="$PROJECT_DIR$/src/com/ct/UniquePaths.java" />
+        <option value="$PROJECT_DIR$/src/com/ct/Subsets.java" />
+        <option value="$PROJECT_DIR$/src/com/ct/SubsetsII.java" />
+        <option value="$PROJECT_DIR$/src/com/ct/MergeSortedArray.java" />
+        <option value="$PROJECT_DIR$/src/com/ct/Combinations.java" />
+        <option value="$PROJECT_DIR$/src/com/ct/PlusOne.java" />
+        <option value="$PROJECT_DIR$/src/com/ct/SameTree.java" />
+        <option value="$PROJECT_DIR$/src/com/ct/PartitionList.java" />
+        <option value="$PROJECT_DIR$/src/com/ct/BinaryTreeLevelOrderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/com/ct/BalancedBinaryTree.java" />
       </list>
     </option>
   </component>
@@ -116,7 +122,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -140,7 +146,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -171,9 +177,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UniquePaths">
-    <configuration name="LengthofLastWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ct.LengthofLastWord" />
+  <component name="RunManager" selected="Application.PlusOne">
+    <configuration name="Combinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ct.Combinations" />
       <module name="ACM" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -183,8 +189,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="PermutationsII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ct.PermutationsII" />
+    <configuration name="MergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ct.MergeSortedArray" />
       <module name="ACM" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -194,8 +200,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SpiralMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ct.SpiralMatrix" />
+    <configuration name="PlusOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ct.PlusOne" />
       <module name="ACM" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -205,8 +211,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SpiralMatrixII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ct.SpiralMatrixII" />
+    <configuration name="Subsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ct.Subsets" />
       <module name="ACM" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -216,8 +222,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="UniquePaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ct.UniquePaths" />
+    <configuration name="SubsetsII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ct.SubsetsII" />
       <module name="ACM" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -269,19 +275,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.PermutationsII" />
-      <item itemvalue="Application.LengthofLastWord" />
-      <item itemvalue="Application.SpiralMatrix" />
-      <item itemvalue="Application.SpiralMatrixII" />
-      <item itemvalue="Application.UniquePaths" />
+      <item itemvalue="Application.Subsets" />
+      <item itemvalue="Application.SubsetsII" />
+      <item itemvalue="Application.MergeSortedArray" />
+      <item itemvalue="Application.Combinations" />
+      <item itemvalue="Application.PlusOne" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UniquePaths" />
-        <item itemvalue="Application.SpiralMatrixII" />
-        <item itemvalue="Application.SpiralMatrix" />
-        <item itemvalue="Application.LengthofLastWord" />
-        <item itemvalue="Application.PermutationsII" />
+        <item itemvalue="Application.PlusOne" />
+        <item itemvalue="Application.Combinations" />
+        <item itemvalue="Application.MergeSortedArray" />
+        <item itemvalue="Application.SubsetsII" />
+        <item itemvalue="Application.Subsets" />
       </list>
     </recent_temporary>
   </component>
@@ -306,11 +312,13 @@
       <workItem from="1536456583773" duration="6603000" />
       <workItem from="1536544072739" duration="26000" />
       <workItem from="1536563931428" duration="23479000" />
+      <workItem from="1536718436881" duration="8638000" />
+      <workItem from="1536763195154" duration="5504000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56698000" />
+    <option name="totallyTimeSpent" value="70840000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -329,7 +337,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25871313" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26541555" />
       <window_info anchor="right" id="Database" order="3" weight="0.3297587" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -353,7 +361,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="21" />
+      <option name="time" value="23" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -361,6 +369,30 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/ct/MergeSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ct/Combinations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="18" column="47" lean-forward="true" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ct/LeafSimilarTrees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="53" lean-forward="true" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ct/SingleElementinaSortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="779">
@@ -372,9 +404,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="722">
           <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -396,9 +425,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="722">
           <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -521,9 +547,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -545,11 +568,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="123">
           <caret line="656" selection-start-line="656" selection-end-line="656" />
-          <folding>
-            <element signature="e#24549#24550#0" expanded="true" />
-            <element signature="e#121412#121413#0" expanded="true" />
-            <element signature="e#121466#121467#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -557,9 +575,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="344">
           <caret line="42" column="5" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="42" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -606,12 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
           <caret line="82" column="20" selection-start-line="82" selection-start-column="20" selection-end-line="82" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
-            <element signature="e#616#617#0" expanded="true" />
-            <element signature="e#1390#1399#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -626,6 +635,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="344">
           <caret line="52" column="5" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="52" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ct/SubsetsII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ct/Subsets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -634,8 +657,69 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ct/LeafSimilarTrees.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="14" column="53" lean-forward="true" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
+        <state relative-caret-position="228">
+          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ct/MergeSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ct/Combinations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ct/PlusOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ct/SameTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ct/PartitionList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ct/BalancedBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="819">
+          <caret line="68" column="36" lean-forward="true" selection-start-line="68" selection-start-column="36" selection-end-line="68" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ct/BinaryTreeLevelOrderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
