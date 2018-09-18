@@ -2,17 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07eb9278-3530-41a3-a0ae-846355e04252" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ct/BalancedBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ct/BinaryTreeLevelOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ct/Combinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ct/MergeSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ct/PartitionList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ct/PlusOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ct/SameTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ct/Subsets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ct/SubsetsII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ct/BinaryTreePreorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ct/PathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ct/PathSumII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ct/SingleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ct/SingleNumberII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ct/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ACM/com/ct/UniquePaths.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ACM/com/ct/UniquePaths.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ACM/com/ct/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ACM/com/ct/PartitionList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ACM/com/ct/PartitionList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ACM/com/ct/PlusOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ACM/com/ct/PlusOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ACM/com/ct/SameTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ACM/com/ct/SameTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ACM/com/ct/TreeNode.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,7 +38,50 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="PathSumII.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ct/PathSumII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Triangle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ct/Triangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="401">
+              <caret line="98" column="5" lean-forward="true" selection-start-line="98" selection-start-column="5" selection-end-line="98" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SingleNumber.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ct/SingleNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SingleNumberII.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ct/SingleNumberII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -90,6 +134,12 @@
         <option value="$PROJECT_DIR$/src/com/ct/PartitionList.java" />
         <option value="$PROJECT_DIR$/src/com/ct/BinaryTreeLevelOrderTraversal.java" />
         <option value="$PROJECT_DIR$/src/com/ct/BalancedBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/com/ct/BinaryTreePreorderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/com/ct/PathSum.java" />
+        <option value="$PROJECT_DIR$/src/com/ct/PathSumII.java" />
+        <option value="$PROJECT_DIR$/src/com/ct/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/com/ct/SingleNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/ct/SingleNumberII.java" />
       </list>
     </option>
   </component>
@@ -177,20 +227,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PlusOne">
+  <component name="RunManager" selected="Application.SingleNumberII">
     <configuration name="Combinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ct.Combinations" />
-      <module name="ACM" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ct.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="MergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ct.MergeSortedArray" />
       <module name="ACM" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -211,8 +250,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Subsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ct.Subsets" />
+    <configuration name="SingleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ct.SingleNumber" />
       <module name="ACM" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -222,8 +261,19 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SubsetsII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ct.SubsetsII" />
+    <configuration name="SingleNumberII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ct.SingleNumberII" />
+      <module name="ACM" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ct.Triangle" />
       <module name="ACM" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -275,19 +325,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Subsets" />
-      <item itemvalue="Application.SubsetsII" />
-      <item itemvalue="Application.MergeSortedArray" />
       <item itemvalue="Application.Combinations" />
       <item itemvalue="Application.PlusOne" />
+      <item itemvalue="Application.Triangle" />
+      <item itemvalue="Application.SingleNumber" />
+      <item itemvalue="Application.SingleNumberII" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SingleNumberII" />
+        <item itemvalue="Application.SingleNumber" />
+        <item itemvalue="Application.Triangle" />
         <item itemvalue="Application.PlusOne" />
         <item itemvalue="Application.Combinations" />
-        <item itemvalue="Application.MergeSortedArray" />
-        <item itemvalue="Application.SubsetsII" />
-        <item itemvalue="Application.Subsets" />
       </list>
     </recent_temporary>
   </component>
@@ -314,11 +364,14 @@
       <workItem from="1536563931428" duration="23479000" />
       <workItem from="1536718436881" duration="8638000" />
       <workItem from="1536763195154" duration="5504000" />
+      <workItem from="1536819301718" duration="1306000" />
+      <workItem from="1537238919703" duration="3147000" />
+      <workItem from="1537249739699" duration="6174000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70840000" />
+    <option name="totallyTimeSpent" value="81467000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -337,7 +390,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26541555" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27546915" />
       <window_info anchor="right" id="Database" order="3" weight="0.3297587" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -361,7 +414,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="23" />
+      <option name="time" value="27" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -369,30 +422,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/ct/MergeSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ct/Combinations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="18" column="47" lean-forward="true" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ct/LeafSimilarTrees.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="53" lean-forward="true" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ct/SingleElementinaSortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="779">
@@ -596,10 +625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
           <caret line="37" column="5" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
-          <folding>
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -649,9 +674,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -673,9 +695,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
           <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -707,9 +726,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="819">
           <caret line="68" column="36" lean-forward="true" selection-start-line="68" selection-start-column="36" selection-end-line="68" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -717,9 +733,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ct/BinaryTreePreorderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ct/PathSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ct/PathSumII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ct/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="98" column="5" lean-forward="true" selection-start-line="98" selection-start-column="5" selection-end-line="98" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ct/SingleNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ct/SingleNumberII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
         </state>
       </provider>
     </entry>
