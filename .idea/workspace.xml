@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07eb9278-3530-41a3-a0ae-846355e04252" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ct/AddBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ct/BinaryTreePaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ct/HappyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ct/RemoveLinkedListElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ct/SumRoottoLeafNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ct/WordBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ct/DifferentWaystoAddParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ct/MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ct/MaximumSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ct/MergeTwoSortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ct/RemoveDuplicatesfromSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ct/Searcha2DMatrixII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ct/ValidParentheses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -37,20 +38,92 @@
       <file leaf-file-name="RemoveLinkedListElements.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ct/RemoveLinkedListElements.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+            <state relative-caret-position="209">
+              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinaryTreePaths.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BinaryTreePaths.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ct/BinaryTreePaths.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="41" column="23" lean-forward="true" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+            <state relative-caret-position="760">
+              <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MajorityElement.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ct/MajorityElement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="950">
+              <caret line="53" column="1" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Searcha2DMatrixII.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ct/Searcha2DMatrixII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaximumSubarray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ct/MaximumSubarray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DifferentWaystoAddParentheses.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ct/DifferentWaystoAddParentheses.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ValidParentheses.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ct/ValidParentheses.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MergeTwoSortedLists.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ct/MergeTwoSortedLists.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="31" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RemoveDuplicatesfromSortedArray.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ct/RemoveDuplicatesfromSortedArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="499">
+              <caret line="34" column="5" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -122,6 +195,13 @@
         <option value="$PROJECT_DIR$/src/com/ct/HappyNumber.java" />
         <option value="$PROJECT_DIR$/src/com/ct/RemoveLinkedListElements.java" />
         <option value="$PROJECT_DIR$/src/com/ct/BinaryTreePaths.java" />
+        <option value="$PROJECT_DIR$/src/com/ct/MajorityElement.java" />
+        <option value="$PROJECT_DIR$/src/com/ct/Searcha2DMatrixII.java" />
+        <option value="$PROJECT_DIR$/src/com/ct/MaximumSubarray.java" />
+        <option value="$PROJECT_DIR$/src/com/ct/DifferentWaystoAddParentheses.java" />
+        <option value="$PROJECT_DIR$/src/com/ct/ValidParentheses.java" />
+        <option value="$PROJECT_DIR$/src/com/ct/MergeTwoSortedLists.java" />
+        <option value="$PROJECT_DIR$/src/com/ct/RemoveDuplicatesfromSortedArray.java" />
       </list>
     </option>
   </component>
@@ -155,7 +235,7 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -178,7 +258,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -210,9 +290,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HappyNumber">
-    <configuration name="AddBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ct.AddBinary" />
+  <component name="RunManager" selected="Application.RemoveDuplicatesfromSortedArray">
+    <configuration name="DifferentWaystoAddParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ct.DifferentWaystoAddParentheses" />
       <module name="ACM" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -233,8 +313,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SingleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ct.SingleNumber" />
+    <configuration name="MajorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ct.MajorityElement" />
       <module name="ACM" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -244,8 +324,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SingleNumberII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ct.SingleNumberII" />
+    <configuration name="RemoveDuplicatesfromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ct.RemoveDuplicatesfromSortedArray" />
       <module name="ACM" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -255,8 +335,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SortMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ct.SortMethod" />
+    <configuration name="ValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ct.ValidParentheses" />
       <module name="ACM" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -308,19 +388,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.SingleNumber" />
-      <item itemvalue="Application.SingleNumberII" />
-      <item itemvalue="Application.SortMethod" />
-      <item itemvalue="Application.AddBinary" />
       <item itemvalue="Application.HappyNumber" />
+      <item itemvalue="Application.MajorityElement" />
+      <item itemvalue="Application.DifferentWaystoAddParentheses" />
+      <item itemvalue="Application.ValidParentheses" />
+      <item itemvalue="Application.RemoveDuplicatesfromSortedArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveDuplicatesfromSortedArray" />
+        <item itemvalue="Application.ValidParentheses" />
+        <item itemvalue="Application.DifferentWaystoAddParentheses" />
+        <item itemvalue="Application.MajorityElement" />
         <item itemvalue="Application.HappyNumber" />
-        <item itemvalue="Application.AddBinary" />
-        <item itemvalue="Application.SortMethod" />
-        <item itemvalue="Application.SingleNumberII" />
-        <item itemvalue="Application.SingleNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -351,11 +431,13 @@
       <workItem from="1537238919703" duration="3147000" />
       <workItem from="1537249739699" duration="6174000" />
       <workItem from="1537320299015" duration="8447000" />
+      <workItem from="1537449058196" duration="9740000" />
+      <workItem from="1537621808092" duration="3314000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89914000" />
+    <option name="totallyTimeSpent" value="102968000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -370,11 +452,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.3297587" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32952926" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25249642" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27949062" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28753352" />
       <window_info anchor="right" id="Database" order="3" weight="0.3297587" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -412,7 +494,7 @@
           <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="31" />
+      <option name="time" value="33" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -420,55 +502,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/ct/ScoreofParentheses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="46" column="13" lean-forward="true" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ct/WalkingRobotSimulation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="45" column="5" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="45" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ct/MiddleOfTheLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ct/MiddleOfTheLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ct/FairCandySwap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ct/FindAllDuplicatesInAnArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ct/MonotonicArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ct/WalkingRobotSimulation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="855">
@@ -700,9 +733,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1843">
           <caret line="98" column="5" selection-start-line="98" selection-start-column="5" selection-end-line="98" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -717,10 +747,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-          <folding>
-            <element signature="e#272#273#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -728,10 +754,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#2848#2849#0" expanded="true" />
-            <element signature="e#2889#2890#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -763,10 +785,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -774,26 +792,81 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ct/RemoveLinkedListElements.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        <state relative-caret-position="209">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ct/BinaryTreePaths.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="41" column="23" lean-forward="true" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+        <state relative-caret-position="760">
+          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ct/MajorityElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="53" column="1" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ct/Searcha2DMatrixII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ct/MaximumSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ct/DifferentWaystoAddParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ct/ValidParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ct/MergeTwoSortedLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ct/RemoveDuplicatesfromSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
         </state>
       </provider>
     </entry>
