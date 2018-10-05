@@ -33,13 +33,6 @@ public class PartitionList {
         less.next = greaterOrEqualHead.next;
         return lessHead.next;
     }
-
-    //Definition for singly-linked list.
-    class ListNode {
-        int val;
-        ListNode next;
-        ListNode(int x) { val = x; }
-    }
 }
 
 
