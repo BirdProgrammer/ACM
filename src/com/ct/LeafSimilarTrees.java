@@ -24,11 +24,4 @@ public class LeafSimilarTrees {
             getSequence(root.right,sb);
         }
     }
-
-    public class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-        TreeNode(int x) { val = x; }
-     }
 }

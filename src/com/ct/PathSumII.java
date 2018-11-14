@@ -29,12 +29,4 @@ public class PathSumII {
             list.remove(list.size()-1);
         }
     }
-
-    //Definition for a binary tree node.
-    class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-        TreeNode(int x) { val = x; }
-    }
 }
